@@ -1,0 +1,20 @@
+#card {
+    background-color: #E9E6E6;
+    padding-top: 1px;
+}
+
+#title {
+    background-color: #78F0B7;
+    font-size: 36px;
+    color: white;
+    margin: 10px 10px 40px 20px;
+    border: 2px #178C55;
+    padding: 20px;
+    text-align: center;
+}
+
+#content {
+    background-color: #24CCDA;
+    padding: 5px 10px;
+    color: white;
+}
